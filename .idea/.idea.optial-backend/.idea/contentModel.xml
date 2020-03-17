@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jose\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Jose\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Jose\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jose\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_optial-backend.-581845186.00" t="ExcludeRecursive" />
+    <e p="D:\Documents\Proyectos\optial-backend" t="IncludeFlat">
+      <e p="optial-backend" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="UsuarioController.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Usuario.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="AppSettings.cs" t="Include" />
+          <e p="ExtensionMethods.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="AuthenticateModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="optial-backend.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="optial-backend.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="UsuarioService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="optial-backend.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
