@@ -18,7 +18,7 @@ namespace optial_backend.Entities
         public string Municipio { get; set; }
         public string Colonia { get; set; }
         public string Genero { get; set; }
-        public string Edad { get; set; }
+        public string FechaNacimiento { get; set; }
         public string Celular { get; set; }
         public string IdRol { get; set; }
         public string Imagen { get; set; }
