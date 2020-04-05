@@ -6,6 +6,7 @@
         public string ConnectionString { get; set; }
         public string DatabaseName { get; set; }
         public string UsersCollectionName { get; set; }
+        public string TrabajosCollectionName { get; set; }
     }
 
     public interface IAppSettings
@@ -14,5 +15,6 @@
         string ConnectionString { get; set; }
         string DatabaseName { get; set; }
         string UsersCollectionName { get; set; }
+        string TrabajosCollectionName { get; set; }
     }
 }

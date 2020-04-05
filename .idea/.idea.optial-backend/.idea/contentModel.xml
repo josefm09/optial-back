@@ -11,9 +11,11 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
+          <e p="TrabajoController.cs" t="Include" />
           <e p="UsuarioController.cs" t="Include" />
         </e>
         <e p="Entities" t="Include">
+          <e p="Trabajo.cs" t="Include" />
           <e p="Usuario.cs" t="Include" />
         </e>
         <e p="Helpers" t="Include">
@@ -36,6 +38,7 @@
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Services" t="Include">
+          <e p="TrabajoService.cs" t="Include" />
           <e p="UsuarioService.cs" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />

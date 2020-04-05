@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2a96d8e-0584-4334-b0b1-a8f4d7426c79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/optial-backend/Controllers/TrabajoController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optial-backend/Entities/Trabajo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optial-backend/Services/TrabajoService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.optial-backend/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.optial-backend/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.optial-backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.optial-backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optial-backend/Entities/Usuario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/Entities/Usuario.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optial-backend/Helpers/AppSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/Helpers/AppSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optial-backend/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/optial-backend/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/optial-backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/optial-backend.dll" afterDir="false" />
@@ -21,6 +26,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AAE280E8-80DB-4E62-9869-77BC009FDE17/6C/IActionResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/optial-backend/obj/Debug/netcoreapp3.1/optial-backend.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F40AEF44-138B-4E3C-B2DE-5FA77D7F0FEE/16/fa31c5a5/IMongoCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
@@ -28,13 +34,18 @@
     <setting file="file://$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/appsettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Controllers/UsuarioController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/optial-backend/Services/TrabajoService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/appsettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Services/UsuarioService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/optial-backend/Controllers/TrabajoController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Models/AuthenticateModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/optial-backend/Entities/Trabajo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Entities/Usuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F2ACE85F-6C10-49DB-8CAC-F03079CCDA72/24/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Helpers/AppSettings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Helpers/ExtensionMethods.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/83220513-3033-4E89-9238-E60FAAF013FD/23/AuthAppBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,14 +53,17 @@
         <option value="$PROJECT_DIR$/optial-backend/Helpers/ExtensionMethods.cs" />
         <option value="$PROJECT_DIR$/optial-backend/appsettings.Development.json" />
         <option value="$PROJECT_DIR$/optial-backend/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/optial-backend/Helpers/AppSettings.cs" />
         <option value="$PROJECT_DIR$/optial-backend/Models/AuthenticateModel.cs" />
         <option value="$PROJECT_DIR$/optial-backend/Controllers/UsuarioController.cs" />
-        <option value="$PROJECT_DIR$/optial-backend/Startup.cs" />
         <option value="$PROJECT_DIR$/optial-backend/optial-backend.csproj" />
         <option value="$PROJECT_DIR$/optial-backend/Services/UsuarioService.cs" />
-        <option value="$PROJECT_DIR$/optial-backend/appsettings.json" />
         <option value="$PROJECT_DIR$/optial-backend/Entities/Usuario.cs" />
+        <option value="$PROJECT_DIR$/optial-backend/Entities/Trabajo.cs" />
+        <option value="$PROJECT_DIR$/optial-backend/appsettings.json" />
+        <option value="$PROJECT_DIR$/optial-backend/Services/TrabajoService.cs" />
+        <option value="$PROJECT_DIR$/optial-backend/Helpers/AppSettings.cs" />
+        <option value="$PROJECT_DIR$/optial-backend/Controllers/TrabajoController.cs" />
+        <option value="$PROJECT_DIR$/optial-backend/Startup.cs" />
       </list>
     </option>
   </component>
@@ -112,7 +126,9 @@
       <workItem from="1584389461515" duration="10802000" />
       <workItem from="1584822208982" duration="1334000" />
       <workItem from="1584901433872" duration="1668000" />
-      <workItem from="1586029718404" duration="426000" />
+      <workItem from="1586029718404" duration="543000" />
+      <workItem from="1586030294408" duration="2353000" />
+      <workItem from="1586120701035" duration="3417000" />
     </task>
     <servers />
   </component>
@@ -121,27 +137,38 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="1983" y="137" key="#optial-backend:_optial_backend" timestamp="1584394323717">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1983" y="137" key="#optial-backend:_optial_backend/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584394323717" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584905926323">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586125059800">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584905926323" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584905926323">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586125059800" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586125059800">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584905926323" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584905926323">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586125059800" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586125059800">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584905926323" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584905926323">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586125059800" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586125059800">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584905926323" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586125059800" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1584406542181">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
@@ -206,19 +233,19 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.4.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584406542181" />
-    <state x="1827" y="162" key="SettingsEditor" timestamp="1586030146042">
+    <state x="1827" y="162" key="SettingsEditor" timestamp="1586030258448">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="1827" y="162" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586030146042" />
-    <state x="638" y="252" width="644" height="536" key="find.popup" timestamp="1584901515689">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1827" y="162" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586030258448" />
+    <state x="2004" y="252" width="644" height="536" key="find.popup" timestamp="1586124696015">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="2004" y="252" width="644" height="536" key="find.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584823085525" />
+    <state x="2004" y="252" width="644" height="536" key="find.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586124696015" />
     <state x="638" y="252" width="644" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584901515689" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584901503245">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586120941341">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584402843357" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586120941341" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584901503245" />
   </component>
   <component name="XDebuggerManager">
