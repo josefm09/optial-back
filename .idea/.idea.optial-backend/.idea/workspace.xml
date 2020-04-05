@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2a96d8e-0584-4334-b0b1-a8f4d7426c79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/optial-backend/Controllers/TrabajoController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/optial-backend/Entities/Trabajo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/optial-backend/Services/TrabajoService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optial-backend/Entities/Solicitud.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.optial-backend/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.optial-backend/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.optial-backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.optial-backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optial-backend/Helpers/AppSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/Helpers/AppSettings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optial-backend/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optial-backend/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/optial-backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/optial-backend.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/optial-backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/bin/Debug/netcoreapp3.1/optial-backend.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optial-backend/obj/Debug/netcoreapp3.1/optial-backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/obj/Debug/netcoreapp3.1/optial-backend.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optial-backend/obj/Debug/netcoreapp3.1/optial-backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/obj/Debug/netcoreapp3.1/optial-backend.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optial-backend/Entities/Trabajo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/optial-backend/Entities/Trabajo.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/optial-backend/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Models/AuthenticateModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Entities/Trabajo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/optial-backend/Entities/Solicitud.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Entities/Usuario.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F2ACE85F-6C10-49DB-8CAC-F03079CCDA72/24/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/optial-backend/Helpers/AppSettings.cs" root0="FORCE_HIGHLIGHTING" />
@@ -58,12 +50,14 @@
         <option value="$PROJECT_DIR$/optial-backend/optial-backend.csproj" />
         <option value="$PROJECT_DIR$/optial-backend/Services/UsuarioService.cs" />
         <option value="$PROJECT_DIR$/optial-backend/Entities/Usuario.cs" />
-        <option value="$PROJECT_DIR$/optial-backend/Entities/Trabajo.cs" />
         <option value="$PROJECT_DIR$/optial-backend/appsettings.json" />
         <option value="$PROJECT_DIR$/optial-backend/Services/TrabajoService.cs" />
         <option value="$PROJECT_DIR$/optial-backend/Helpers/AppSettings.cs" />
         <option value="$PROJECT_DIR$/optial-backend/Controllers/TrabajoController.cs" />
         <option value="$PROJECT_DIR$/optial-backend/Startup.cs" />
+        <option value="$PROJECT_DIR$/optial-backend/Entities/Prestador.cs" />
+        <option value="$PROJECT_DIR$/optial-backend/Entities/Trabajo.cs" />
+        <option value="$PROJECT_DIR$/optial-backend/Entities/Solicitud.cs" />
       </list>
     </option>
   </component>
@@ -128,7 +122,7 @@
       <workItem from="1584901433872" duration="1668000" />
       <workItem from="1586029718404" duration="543000" />
       <workItem from="1586030294408" duration="2353000" />
-      <workItem from="1586120701035" duration="3417000" />
+      <workItem from="1586120701035" duration="5133000" />
     </task>
     <servers />
   </component>
