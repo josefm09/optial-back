@@ -21,6 +21,7 @@ namespace optial_backend.Entities
         public string FechaNacimiento { get; set; }
         public string Celular { get; set; }
         public string IdRol { get; set; }
+        public string IdContratista { get; set; }
         public string Imagen { get; set; }
         public string RegistroCompleto { get; set; }
         public string Estatus { get; set; }

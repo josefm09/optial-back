@@ -15,6 +15,7 @@
           <e p="UsuarioController.cs" t="Include" />
         </e>
         <e p="Entities" t="Include">
+          <e p="Feedback.cs" t="Include" />
           <e p="Solicitud.cs" t="Include" />
           <e p="Trabajo.cs" t="Include" />
           <e p="Usuario.cs" t="Include" />
